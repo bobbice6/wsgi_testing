@@ -2,7 +2,7 @@ README for wsgi files:
 
 list of files:
 application.py
-environmaent.py
+environment.py
 fileserver.py
 hello_route.py
 helloworld.py
